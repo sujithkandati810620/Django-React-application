@@ -1,19 +1,47 @@
-# Django-React-application
+# Django-React Application
 
-git clone https://github.com/sujithkandati810620/Django-React-application
-cd Django-React-application/Bakend/myproject
+This repository contains a full-stack web application built using Django and React.
+
+## Getting Started
+
+Follow the instructions below to set up and run the application locally.
+
+### Prerequisites
+
+Ensure you have the following installed on your machine:
+
+- [Python 3.x](https://www.python.org/downloads/)
+- [pip](https://pip.pypa.io/en/stable/installation/)
+- [MongoDB](https://www.mongodb.com/)
+
+### Installation
+
+1. **Clone the Repository**
+
+   Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/sujithkandati810620/Django-React-application
 
 
-Create a Virtual Environment:
-python3 -m venv env
-source env/bin/activate 
+2. **Navigating into the directory**
+    ```bash
+   cd Django-React-application/Backend/myproject
 
-Install Dependencies:
-pip install -r requirements.txt
+3. **Create a Virtual Environment:**
+   ```bash
+    python3 -m venv env
+    source env/bin/activate 
 
-Set Up the Database Mongodb
+ 
+5. **Install Dependencies:**
+    ```bash
+    pip install -r requirements.txt
 
 
-Run the Django Development Server:
+6. **Run the React Development Server**:
 
-python manage.py runserver
+    ```bash
+    python manage.py runserver
+
+
