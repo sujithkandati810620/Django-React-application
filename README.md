@@ -1,7 +1,8 @@
 # Django-React-application
 
-git clone <your-django-repo-url>
-cd <your-django-project-directory>
+git clone https://github.com/sujithkandati810620/Django-React-application
+cd Django-React-application/Bakend/myproject
+
 
 Create a Virtual Environment:
 python3 -m venv env
